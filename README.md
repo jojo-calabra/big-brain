@@ -1,2 +1,2 @@
-# big-brain
+# Big Brain
 Game development project
