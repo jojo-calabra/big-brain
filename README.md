@@ -15,11 +15,11 @@ The folowing sections will feature the script for the games story and more.
 
 ### Script 📖
 
-[embed](https://github.com/jojo-calabra/big-brain/blob/main/Big%20Brain%20-%20Script.pdf)[/embed]
+https://github.com/jojo-calabra/big-brain/blob/main/Big%20Brain%20-%20Script.pdf
 
 ### Research 🔬
 
-[embed](https://github.com/jojo-calabra/big-brain/blob/main/Big%20Brain%20-%20Research.pdf)[/embed]
+https://github.com/jojo-calabra/big-brain/blob/main/Big%20Brain%20-%20Research.pdf
 
 # Sources 
 
